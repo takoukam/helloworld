@@ -2,8 +2,6 @@ peline {
     environment {
         IMAGE_NAME = "helloworld"
         IMAGE_TAG = "latest"
-        #STAGING = "antoine-staging"
-        #PRODUCTION = "antoine-production"
         IMAGE_REPO = "takoukam"
      }
     agent none
