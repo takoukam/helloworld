@@ -1,4 +1,4 @@
-peline {
+pipeline {
     environment {
         IMAGE_NAME = "helloworld"
         IMAGE_TAG = "latest"
